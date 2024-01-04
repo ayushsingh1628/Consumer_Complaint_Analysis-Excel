@@ -7,8 +7,7 @@ Use of lookup function
 
 2. Key Performance Indicator :
 Use of pivot table
-![report task 4(2)](https://github.com/ayushsingh1628/Consumer_Complaint_Analysis-Excel/assets/93868480/c551b8e8-477e-4ff1-a917-2263a379a8b8)
-![report task 4](https://github.com/ayushsingh1628/Consumer_Complaint_Analysis-Excel/assets/93868480/72afc145-237b-4e0c-b645-7becdf9a994f)
+![report task 4(2)](https://github.com/ayushsingh1628/Consumer_Complaint_Analysis-Excel/assets/93868480/c551b8e8-477e-4ff1-a917-2263a379a8b8) ![report task 4](https://github.com/ayushsingh1628/Consumer_Complaint_Analysis-Excel/assets/93868480/72afc145-237b-4e0c-b645-7becdf9a994f)
 
 
 3. Dashboard
